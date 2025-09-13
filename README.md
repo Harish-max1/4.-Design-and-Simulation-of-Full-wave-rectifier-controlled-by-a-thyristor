@@ -66,5 +66,11 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="441" height="259" alt="Screenshot 2025-09-13 183941" src="https://github.com/user-attachments/assets/706fc927-dbdb-4062-8bfb-2ece15ddc584" />
+
 ## Output
+<img width="775" height="404" alt="Screenshot 2025-09-13 184146" src="https://github.com/user-attachments/assets/de2b3864-9d1d-4c27-81ee-53ea0ecd4a9a" />
+
 ## Result
+Thus ,the Experiment has been stimulated and the ouput has been verified using matlab
+ successfully
